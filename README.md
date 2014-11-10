@@ -5,8 +5,9 @@ ng-if implementation based off of bootstrap's viewport classes. This directive a
 
 Example
 ==============
-
+```
 <div if-viewport="sm">
   <!-- HTML that will only be rendered if viewport matches sm and above -->
   <div ng-view></div>
 </div>
+```
